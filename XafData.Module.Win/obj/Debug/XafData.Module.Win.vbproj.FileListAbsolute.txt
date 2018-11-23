@@ -1,0 +1,4 @@
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\XafData.Module.Win\obj\Debug\XafData.Module.Win.vbprojAssemblyReference.cache
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\XafData.Module.Win\obj\Debug\XafData.Module.Win.Resources.resources
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\XafData.Module.Win\obj\Debug\XafData.Module.Win.vbproj.GenerateResource.cache
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\XafData.Module.Win\obj\Debug\XafData.Module.Win.vbproj.CoreCompileInputs.cache

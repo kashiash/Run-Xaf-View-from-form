@@ -1,0 +1,6 @@
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\ShowXafWindowFromForm\obj\x86\Debug\ShowXafWindowFromForm.vbprojAssemblyReference.cache
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\ShowXafWindowFromForm\obj\x86\Debug\ShowXafWindowFromForm.Form1.resources
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\ShowXafWindowFromForm\obj\x86\Debug\ShowXafWindowFromForm.Resources.resources
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\ShowXafWindowFromForm\obj\x86\Debug\ShowXafWindowFromForm.vbproj.GenerateResource.cache
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\ShowXafWindowFromForm\obj\x86\Debug\ShowXafWindowFromForm.exe.licenses
+c:\Users\jkosinski\Documents\GitHub\Run-Xaf-View-from-form\ShowXafWindowFromForm\obj\x86\Debug\ShowXafWindowFromForm.vbproj.CoreCompileInputs.cache
